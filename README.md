@@ -25,3 +25,7 @@ Combined multiple datasets containing human-written and AI-generated text sample
 Abhinav Chella  
 M.Sc. Artificial Intelligence for Smart Sensors and Actuators  
 Deggendorf Institute of Technology
+## Repository Structure
+
+roberta_text_detection.ipynb — training and evaluation notebook for transformer-based classifier  
+project_report.pdf — research-style documentation of methodology and results
